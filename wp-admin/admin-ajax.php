@@ -1,1 +1,1 @@
-{"success":true,"data":{"title":"Live Broadcast"}}
+{"success":true,"data":{"title":""}}
